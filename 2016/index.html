@@ -214,7 +214,7 @@
 <p><strong>“Tidal Flow”</strong></p>
 
 <p>Uses a heavily warped version of the classic <a href="https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot Set</a> formula  <br>
-<script type="math/tex; mode=display" id="MathJax-Element-18">
+<script type="math/tex; mode=display" id="MathJax-Element-1">
 z_{n+1} = z_n^2+c
 </script></p>
 
@@ -224,14 +224,14 @@ z_{n+1} = z_n^2+c
 
 
 
-<p><script type="math/tex; mode=display" id="MathJax-Element-19">
+<p><script type="math/tex; mode=display" id="MathJax-Element-2">
 z_{n+1} = z_n^3 + z_n(z_0 - 1) - z_0
 </script></p>
 
 <p><strong>“Painted Clouds”</strong></p>
 
 <p>This has a variation of the “Nova” fractal as a starting point, which itself is a generalisation to a Mandelbrot set type fractal of the <a href="https://en.wikipedia.org/wiki/Newton_fractal">Newton fractal</a> a form of Julia set which visualises Newton’s method applied to a fixed polynomial in ℂ <br>
- <script type="math/tex; mode=display" id="MathJax-Element-20">
+ <script type="math/tex; mode=display" id="MathJax-Element-3">
 z_{n+1} = z_n - \frac{rz_n^p-1}{dz_n^{p-1}} + c
 </script></p>
 
@@ -245,7 +245,7 @@ z_{n+1} = z_n - \frac{rz_n^p-1}{dz_n^{p-1}} + c
 
 
 
-<p><script type="math/tex; mode=display" id="MathJax-Element-21">
+<p><script type="math/tex; mode=display" id="MathJax-Element-4">
 z_{n+1} = \frac{az_n^p+b}{dz_n^p+e} + c
 </script></p>
 
@@ -255,7 +255,7 @@ z_{n+1} = \frac{az_n^p+b}{dz_n^p+e} + c
 
 
 
-<p><script type="math/tex; mode=display" id="MathJax-Element-22">
+<p><script type="math/tex; mode=display" id="MathJax-Element-5">
 z_{n+1} = \frac{z_n^2+(c-1)^2}{2z_n+(c-2)}
 </script></p>
 
@@ -276,48 +276,48 @@ p = power parameter (default 2.0)</p>
 
 <ul>
 <li>Default (Escape time) <br>
-<script type="math/tex; mode=display" id="MathJax-Element-23">
+<script type="math/tex; mode=display" id="MathJax-Element-6">
   \mu = \frac{n}{t}
 </script></li>
 <li>Smooth (Normalised Iteration Count): <br>
-<script type="math/tex; mode=display" id="MathJax-Element-24">
+<script type="math/tex; mode=display" id="MathJax-Element-7">
   \mu = \frac {r}{t}
 </script> <br>
 where: <br>
-<script type="math/tex; mode=display" id="MathJax-Element-25">
+<script type="math/tex; mode=display" id="MathJax-Element-8">
   r= n + 1 - \frac{log(log(\|z_n\|))}{log(p)}
 </script> <br>
 or  <br>
-<script type="math/tex; mode=display" id="MathJax-Element-26">
+<script type="math/tex; mode=display" id="MathJax-Element-9">
   r = n + \frac{log(log(\sqrt{b})) - log(log(\|z_n\|))}{log(p)}
 </script></li>
 <li>Exponential Smoothing, divergent: <br>
-<script type="math/tex; mode=display" id="MathJax-Element-27">
+<script type="math/tex; mode=display" id="MathJax-Element-10">
   \mu = \frac {s}{t}
 </script> <br>
 where: <br>
-<script type="math/tex; mode=display" id="MathJax-Element-28">
+<script type="math/tex; mode=display" id="MathJax-Element-11">
 s = \sum\limits_{z=z_0}^{z_n} e^{-\lVert z \rVert}
 </script> <br>
 and convergent: <br>
-<script type="math/tex; mode=display" id="MathJax-Element-29">
+<script type="math/tex; mode=display" id="MathJax-Element-12">
 s = \sum\limits_{z=z_0}^{z_n} e^{\frac{-1}{\|z\|}}
 </script></li>
 <li>Triangle Inequality: <br>
-<script type="math/tex; mode=display" id="MathJax-Element-30">
+<script type="math/tex; mode=display" id="MathJax-Element-13">
 L = \Bigl\lvert \|z-c\| - \|c\|\Bigr\rvert
 </script> <br>
-<script type="math/tex; mode=display" id="MathJax-Element-31">
+<script type="math/tex; mode=display" id="MathJax-Element-14">
 A = \frac{\Bigg[ \sum\limits_{z=z_1}^{z_n} \frac{\|z\| - L}{\|z-c\| + \|c\| - L} \Bigg]}{n}
 </script> <br>
-<script type="math/tex; mode=display" id="MathJax-Element-32">
+<script type="math/tex; mode=display" id="MathJax-Element-15">
 B = \frac{\Bigg[ \sum\limits_{z=z_1}^{z_{n-1}} \frac{\|z\| - L}{\|z-c\| + \|c\| - L} \Bigg]}{n-1}
 </script> <br>
-<script type="math/tex; mode=display" id="MathJax-Element-33">
+<script type="math/tex; mode=display" id="MathJax-Element-16">
 \mu = B + (A - B) \Bigg[\frac{log(\frac{log(b)}{2}) - log(log(\|z_n\|))}{log(p)} + 1\Bigg]
 </script></li>
 <li>Gaussian Integers: (average distance variant shown) <br>
-<script type="math/tex; mode=display" id="MathJax-Element-34">
+<script type="math/tex; mode=display" id="MathJax-Element-17">
 \mu = \frac{ \Big[ \sum\limits_{z=z_0}^{z_n} \|z-round(z)\| \Big] }{n}
 </script></li>
 </ul></div></body>
