@@ -10,12 +10,12 @@ Owen Kaluza
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016)
-- [Older work on Redbubble](http://redbubble.com/people/owenk) More coming soon!
+- [Older work on Redbubble](http://redbubble.com/people/owenk) 
+- More coming soon!
+- Fractured http://fract.ured.me
 
 ## Software
 - LavaVu http://github.com/okaluza/lavavu
 - Underworld https://github.com/underworldcode/underworld2
 - ShareVol http://github.com/okaluza/sharevol
-- Fractured http://fract.ured.me
-
-
+- Fractured http://github.com/okaluza/fractured
