@@ -1,4 +1,4 @@
-
+![border-image](natural-order-border_sm.jpg)
 
 Owen Kaluza 
 ===========
@@ -28,7 +28,9 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
 - More coming soon!
 - Fractured http://fract.ured.me
+
+![border-image](natural-order-border_sm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjc5Mzg0LDc1NDYzOTQ0NiwtMTMyOT
-c2NDU5MV19
+eyJoaXN0b3J5IjpbNjM4Njk3MjYyLC0zMzI3OTM4NCw3NTQ2Mz
+k0NDYsLTEzMjk3NjQ1OTFdfQ==
 -->
