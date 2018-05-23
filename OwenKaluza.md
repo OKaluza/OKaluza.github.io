@@ -20,7 +20,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016)
-- [Old work on Redbubble](http://redbubble.com/people/owenk) 
+- [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
 - More coming soon!
 - Fractured http://fract.ured.me
 
@@ -30,5 +30,5 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - ShareVol http://github.com/okaluza/sharevol
 - Fractured http://github.com/okaluza/fractured
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk3NjQ1OTFdfQ==
+eyJoaXN0b3J5IjpbNzU0NjM5NDQ2LC0xMzI5NzY0NTkxXX0=
 -->
