@@ -18,17 +18,18 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [An interactive three dimensional approach to anatomical description—the jaw musculature of the Australian laughing kookaburra (_Dacelo novaeguineae_)](https://peerj.com/articles/355/)
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
 
-## Art
-- [2016 Digital Exhibition](http://owen.kaluza.id.au/2016)
-- [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
-- More coming soon!
-- Fractured http://fract.ured.me
-
 ## Software
 - LavaVu http://github.com/okaluza/lavavu
 - Underworld https://github.com/underworldcode/underworld2
 - ShareVol http://github.com/okaluza/sharevol
 - Fractured http://github.com/okaluza/fractured
+
+## Art
+- [2016 Digital Exhibition](http://owen.kaluza.id.au/2016)
+- [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
+- More coming soon!
+- Fractured http://fract.ured.me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NjM5NDQ2LC0xMzI5NzY0NTkxXX0=
+eyJoaXN0b3J5IjpbMTQwNzY1OTY3MCw3NTQ2Mzk0NDYsLTEzMj
+k3NjQ1OTFdfQ==
 -->
