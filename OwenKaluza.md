@@ -11,7 +11,6 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [ShareVol demo page](http://owen.kaluza.id.au/sharevol/)
 
 ## Publications
-
 - [Line of fire - what happened at the Wantabadgery seige?](https://www.ncbi.nlm.nih.gov/pubmed/29058106)
 - [Large-scale comparative visualisation of sets of multidimensional data](https://peerj.com/articles/cs-88/)
 - [Stereoscopic space map – semi-immersive configuration of 3D-stereoscopic tours in multi-display environments](https://research.monash.edu/en/publications/stereoscopic-space-map-semi-immersive-configuration-of-3d-stereos)
@@ -30,6 +29,6 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - More coming soon!
 - Fractured http://fract.ured.me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzY1OTY3MCw3NTQ2Mzk0NDYsLTEzMj
-k3NjQ1OTFdfQ==
+eyJoaXN0b3J5IjpbLTMzMjc5Mzg0LDc1NDYzOTQ0NiwtMTMyOT
+c2NDU5MV19
 -->
