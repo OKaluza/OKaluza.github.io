@@ -1,5 +1,3 @@
-![border-image](natural-order-border_sm.jpg)
-
 Owen Kaluza 
 ===========
 Visualisation Software Specialist at Monash Immersive Visualisation Platform
@@ -31,6 +29,6 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 
 ![border-image](natural-order-border_sm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4Njk3MjYyLC0zMzI3OTM4NCw3NTQ2Mz
-k0NDYsLTEzMjk3NjQ1OTFdfQ==
+eyJoaXN0b3J5IjpbLTUxOTEzOSw2Mzg2OTcyNjIsLTMzMjc5Mz
+g0LDc1NDYzOTQ0NiwtMTMyOTc2NDU5MV19
 -->
