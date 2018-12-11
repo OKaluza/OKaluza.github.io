@@ -9,6 +9,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [ShareVol demo page](http://owen.kaluza.id.au/sharevol/)
 
 ## Publications
+- [Benchmark of three-dimensional numerical models of subduction against a laboratory experiment](https://www.sciencedirect.com/science/article/pii/S0031920118300360)
 - [Line of fire - what happened at the Wantabadgery seige?](https://www.ncbi.nlm.nih.gov/pubmed/29058106)
 - [Large-scale comparative visualisation of sets of multidimensional data](https://peerj.com/articles/cs-88/)
 - [Stereoscopic space map – semi-immersive configuration of 3D-stereoscopic tours in multi-display environments](https://research.monash.edu/en/publications/stereoscopic-space-map-semi-immersive-configuration-of-3d-stereos)
@@ -29,6 +30,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 
 ![border-image](natural-order-border_sm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTEzOSw2Mzg2OTcyNjIsLTMzMjc5Mz
-g0LDc1NDYzOTQ0NiwtMTMyOTc2NDU5MV19
+eyJoaXN0b3J5IjpbOTM2ODk3MDIzLC01MTkxMzksNjM4Njk3Mj
+YyLC0zMzI3OTM4NCw3NTQ2Mzk0NDYsLTEzMjk3NjQ1OTFdfQ==
+
 -->
