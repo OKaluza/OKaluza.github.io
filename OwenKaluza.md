@@ -15,6 +15,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [Stereoscopic space map – semi-immersive configuration of 3D-stereoscopic tours in multi-display environments](https://research.monash.edu/en/publications/stereoscopic-space-map-semi-immersive-configuration-of-3d-stereos)
 - [An interactive three dimensional approach to anatomical description—the jaw musculature of the Australian laughing kookaburra (_Dacelo novaeguineae_)](https://peerj.com/articles/355/)
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
+- [Fast Diffusion-Guided QSM Using Graphical Processing Units ![](https://www.ismrm.org/13/pdficon2.gif)](http://archive.ismrm.org/2013/2667.html)
 
 ## Software
 - LavaVu http://github.com/okaluza/lavavu
@@ -30,7 +31,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 
 ![border-image](natural-order-border_sm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2ODk3MDIzLC01MTkxMzksNjM4Njk3Mj
-YyLC0zMzI3OTM4NCw3NTQ2Mzk0NDYsLTEzMjk3NjQ1OTFdfQ==
-
+eyJoaXN0b3J5IjpbLTY3MDI5NDkzOCw5MzY4OTcwMjMsLTUxOT
+EzOSw2Mzg2OTcyNjIsLTMzMjc5Mzg0LDc1NDYzOTQ0NiwtMTMy
+OTc2NDU5MV19
 -->
