@@ -9,6 +9,7 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - [ShareVol demo page](http://owen.kaluza.id.au/sharevol/)
 
 ## Publications
+- [UWGeodynamics: A teaching and research tool for numerical geodynamic modelling](http://joss.theoj.org/papers/10.21105/joss.01136)
 - [Benchmark of three-dimensional numerical models of subduction against a laboratory experiment](https://www.sciencedirect.com/science/article/pii/S0031920118300360)
 - [Line of fire - what happened at the Wantabadgery seige?](https://www.ncbi.nlm.nih.gov/pubmed/29058106)
 - [Large-scale comparative visualisation of sets of multidimensional data](https://peerj.com/articles/cs-88/)
@@ -29,9 +30,13 @@ Visualisation Software Specialist at Monash Immersive Visualisation Platform
 - More coming soon!
 - Fractured http://fract.ured.me
 
+
+---
+
+
 ![border-image](natural-order-border_sm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDI5NDkzOCw5MzY4OTcwMjMsLTUxOT
-EzOSw2Mzg2OTcyNjIsLTMzMjc5Mzg0LDc1NDYzOTQ0NiwtMTMy
-OTc2NDU5MV19
+eyJoaXN0b3J5IjpbNDcyNDQ4NTc1LC02NzAyOTQ5MzgsOTM2OD
+k3MDIzLC01MTkxMzksNjM4Njk3MjYyLC0zMzI3OTM4NCw3NTQ2
+Mzk0NDYsLTEzMjk3NjQ1OTFdfQ==
 -->
