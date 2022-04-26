@@ -5,7 +5,7 @@
 - [LAWLESS – The Real Bushrangers](https://genepoolproductions.com/lawless-project) - Worked on vis for 2 episodes, Photo: filming visualisation in the CAVE2 [here](https://images.squarespace-cdn.com/content/v1/5bcff59ca09a7e44dee61ca1/1542687206271-OH6Z41Q3BP14B4JTOZNC/36_Lawless_Kelly_Cave_05_edit.jpg?format=2500w)
 - [LavaVu WebGL demo page](https://lavavu.github.io/)
 - [LavaVu readme](https://github.com/OKaluza/LavaVu/blob/master/README.md)
-- Some old LavaVu/gLucifer in action: [video](https://www.youtube.com/watch?v=cVulRP2tUGM)
+- Some old LavaVu/gLucifer in action: [video](https://www.youtube.com/watch?v=cVulRP2tUGM) vis by L. Moresi
 - [ShareVol demo page](http://owen.kaluza.id.au/sharevol/)
 - [The original kookaburra WebGL model](http://cave2.github.io/websurfer/?model=examples/quayle_kookaburra)
 - [Geothermal model visualisations](https://figshare.com/articles/poster/Underworld_and_multi_basin_heat_flow/763080)
@@ -31,15 +31,8 @@
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016)
 - [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
-- More coming soon!
 - Fractured http://fract.ured.me
 
-Mathjax test
-$$
-K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
-$$
-
 ---
-
 
 ![border-image](natural-order-border_sm.jpg)
