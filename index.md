@@ -34,6 +34,10 @@
 - More coming soon!
 - Fractured http://fract.ured.me
 
+Mathjax test
+$$
+K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+$$
 
 ---
 
