@@ -1,7 +1,3 @@
-Owen Kaluza 
-===========
-Visualisation Software Specialist at Monash eResearch Centre
-
 ## Visualisation
 - [Mars Oceans Visualisation](https://bridges.monash.edu/articles/media/Mars_Oceans_Visualisation/12792575) playing around with open data, GLSL shader flooding the Martian planet surface with topography created from public domain data obtained from the USGS Astrogeology Science Center.
 - [Cyclone Debbie wind tracers over Great Barrier Reef, data from eReefs](https://bridges.monash.edu/articles/media/Cyclone_Debbie_wind_tracers_over_Great_Barrier_Reef_data_from_eReefs/12725381) open data read from NCI thredds catalogue.
