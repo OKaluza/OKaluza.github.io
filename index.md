@@ -26,14 +26,15 @@ I contributed, usually in a small way (eg: helping with vis tools and outputs et
 
 ## Posters and Talks
 Presentations where I was the/a primary contributor:
-- AGU Fall Meeting 2019 [“The IPython/Jupyter Scientific Visualisation Lanscape”](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/76617)
-- CUG Big Data Geosciences workshop 2019 Poster "IPython Visualisations Workflows with LavaVu"
+- AGU Fall Meeting 2019 [Applications of Big Data and High-Performance Computing in Earth Sciences](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/76617) [“The IPython/Jupyter Scientific Visualisation Lanscape”](#slides_todo)
+- CUG Big Data Geosciences workshop 2019 Poster ["IPython Visualisations Workflows with LavaVu"](#pdf_todo)
 - eResearch 2018 “Scalable Research Data Visualisation Workflows: From Web to HPC”
 - MPSEED Kunming, Yunnan, China, 2018 “Cloud, CAVE, Python and Web: Recipes for Visualising Increasing Data Volumes”
-- DataTas 17/10/2017, IMAS Hobart “3D Visualisation in IPython with LavaVu: A python module for 4D visualisation with interactive IPython notebook integration”
+- DataTas 17/10/2017, IMAS Hobart [“3D Visualisation in IPython with LavaVu: A python module for 4D visualisation with interactive IPython notebook integration”](#slides_todo)
+- Monash eResearch Presentation ["Visualisation in IPython with LavaVu"](http://owen.kaluza.id.au/Slides/2017-08-15/)
 - International Conference on Big Data in Geosciences 1/2017 Haikou, Hainan, China “Visualisation: From Cloud to CAVE - Visualisation at Monash e-Research: including CAVE2 Virtual Reality and OpenStack cloud resources”
-- OzViz 2013, Accelerated Computing Workshop “Paths to accelerated graphics and computation from web apps”
-- ISMRM 2013 Poster [Fast Diffusion-Guided QSM Using Graphical Processing Units ![](https://www.ismrm.org/13/pdficon2.gif)](http://archive.ismrm.org/2013/2667.html)
+- OzViz 2013, Accelerated Computing Workshop [“Paths to accelerated graphics and computation from web apps”](#slides_todo)
+- ISMRM 2013 Poster [Fast Diffusion-Guided QSM Using Graphical Processing Units ![](https://www.ismrm.org/13/pdficon2.gif)](http://archive.ismrm.org/2013/2667.html) [poster_pdf](#pdf_todo)
 - OzViz 2012, Accelerated Computing Workshop “Accelerating Diffusion-guided Quantitative Susceptibility Mapping with OpenCL”
 - OzViz 2009 “Exploring the Underworld with gLucifer
 
