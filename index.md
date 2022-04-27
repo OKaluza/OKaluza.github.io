@@ -13,7 +13,7 @@ A few bits and pieces that are viewable online or have associated articles/press
 - Geothermal modelling, created 3d visualisations [Multi Basin](https://figshare.com/articles/poster/Underworld_and_multi_basin_heat_flow/763080) 3D PDF of  [Latrobe](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Latrobe_Valley_Victoria_Australia/12900026), [Cooper](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Cooper_Basin_South_Australia_Queensland_Australia/12900932), [Gunnedah](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Gunnedah_New_South_Wales_Australia/12900032)
 - [Latrobe Valley - early 3d model work](https://bridges.monash.edu/articles/figure/Latrobe_Valley_images_from_the_Auscope_Geothermal_demonstrators/15001218)
 
-<iframe id="frame1" src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: none\"></iframe>
+<iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
 
 ## Publications
 I contributed, usually in a small way (eg: helping with vis tools and outputs etc), to these papers, the authors were kind enough to add me as a co-author:
