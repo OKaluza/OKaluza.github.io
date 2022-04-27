@@ -1,4 +1,4 @@
-<iframe id="frame1" class="resized" src="webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 1px solid #888\"></iframe>
+<iframe id="frame1" class="resized" src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 1px solid #888\"></iframe>
 
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
