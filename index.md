@@ -3,7 +3,7 @@
 I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities.
 
 <figure>
-  <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
+  <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 100%; border: 0px;"></iframe>
   <figcaption>Interactive WebGL output from LavaVu : brain connectivity network</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ I assisted with these papers, usually by providing visualisation related contrib
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
 
 <figure>
-  <video width="440" height="320" controls>
+  <video width="100%" controls>
     <source src="https://owen.kaluza.id.au/videos/previs-volume-final.mp4" type="video/mp4">
   </video>
   <figcaption>Demo of LavaVu Jupyter Notebook integration</figcaption>
@@ -61,7 +61,7 @@ Presentations where I was the/a primary contributor:
 - [Fractured](http://github.com/okaluza/fractured)
 
 <figure>
-  <img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="300px"/>
+  <img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="100%"/>
   <figcaption>"Corymbia" A fractal generated work from "Rise, Set, Ebb, Flow, Breathe, Grow"</figcaption>
 </figure>
 
