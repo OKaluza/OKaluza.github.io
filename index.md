@@ -3,9 +3,10 @@
 I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities.
 
 <figure>
-  <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 100%; border: 0px;"></iframe>
+  <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 100%; height: 260px; border: 0px;"></iframe>
   <figcaption>Interactive WebGL output from LavaVu : brain connectivity network</figcaption>
 </figure>
+<br>
 
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
@@ -39,6 +40,7 @@ I assisted with these papers, usually by providing visualisation related contrib
   </video>
   <figcaption>Demo of LavaVu Jupyter Notebook integration</figcaption>
 </figure>
+<br>
 
 ## Posters and Talks
 Presentations where I was the/a primary contributor:
@@ -64,7 +66,7 @@ Presentations where I was the/a primary contributor:
   <img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="100%"/>
   <figcaption>"Corymbia" A fractal generated work from "Rise, Set, Ebb, Flow, Breathe, Grow"</figcaption>
 </figure>
-
+<br>
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016) [Monash Library Article](https://www.monash.edu/news/articles/new-library-exhibition)
