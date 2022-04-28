@@ -70,10 +70,11 @@ https://camo.githubusercontent.com/6c64130ce4a5f3ad5ef5a12e8504ddcd26b93746ef4ac
 <br>
 
 ## Software
-- [LavaVu](http://github.com/lavavu/lavavu)
-- [Underworld](https://github.com/underworldcode/underworld2)
-- [ShareVol](http://github.com/okaluza/sharevol)
-- [Fractured](http://github.com/okaluza/fractured)
+- I am the author of the [LavaVu](http://github.com/lavavu/lavavu) visualisation library
+- I contributed visualisation and sampling code to the [Underworld](https://github.com/underworldcode/underworld2) geodynamic modelling code
+- [LavaVR](https://github.com/mivp/LavaVR) is an OmegaLib module providing LavaVu vis output in immersive 3D VR environments (eg: CAVE2)
+- [ShareVol](http://github.com/okaluza/sharevol) is a single page WebGL volume renderer for sharing/visualising volume data
+- [Fractured](http://github.com/okaluza/fractured) is a WebGL fractal renderer in a single page web app
 
 <figure>
   <img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="100%"/>
