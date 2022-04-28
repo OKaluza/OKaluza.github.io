@@ -2,11 +2,13 @@
 
 I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities.
 
+<iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
+
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
 - [Mars Oceans Visualisation](https://bridges.monash.edu/articles/media/Mars_Oceans_Visualisation/12792575) playing around with open data, GLSL shader flooding the Martian planet surface with topography created from public domain data obtained from the USGS Astrogeology Science Center.
 - [Cyclone Debbie wind tracers over Great Barrier Reef, data from eReefs](https://bridges.monash.edu/articles/media/Cyclone_Debbie_wind_tracers_over_Great_Barrier_Reef_data_from_eReefs/12725381) open data read from NCI thredds catalogue.
-- Created this [brain connectivity 3d model](https://lavavu.github.io/webview.html?brain.gldb&background=white) to assist with Dr. Nicholas Mangan's ["Termite Economies"](https://www.monash.edu/mada/research/termite-economies) <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
+- Created this [brain connectivity 3d model](https://lavavu.github.io/webview.html?brain.gldb&background=white) to assist with Dr. Nicholas Mangan's ["Termite Economies"](https://www.monash.edu/mada/research/termite-economies) 
 - [Virtual reality and drones could unlock secrets about the mysterious Plain of Jars in Laos](http://www.abc.net.au/news/2016-10-18/vr-and-drones-could-unlock-secrets-about-the-plain-of-jars-laos/7938520)
 - [LAWLESS – The Real Bushrangers](https://genepoolproductions.com/lawless-project) - Worked on vis for 2 episodes, Photo: filming visualisation in the CAVE2 [here](https://images.squarespace-cdn.com/content/v1/5bcff59ca09a7e44dee61ca1/1542687206271-OH6Z41Q3BP14B4JTOZNC/36_Lawless_Kelly_Cave_05_edit.jpg?format=2500w)
 - [LavaVu WebGL demo page](https://lavavu.github.io/)
@@ -47,6 +49,8 @@ Presentations where I was the/a primary contributor:
 - [Underworld](https://github.com/underworldcode/underworld2)
 - [ShareVol](http://github.com/okaluza/sharevol)
 - [Fractured](http://github.com/okaluza/fractured)
+
+<img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="500px"/>
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016) [Monash Library Article](https://www.monash.edu/news/articles/new-library-exhibition)
