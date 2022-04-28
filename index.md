@@ -41,7 +41,7 @@ I assisted with these papers, usually by providing visualisation related contrib
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
 
 <figure>
-  <video width="100%" controls>
+  <video width="100%" controls autoplay>
     <source src="https://owen.kaluza.id.au/videos/previs-volume-final.mp4" type="video/mp4">
   </video>
   <figcaption>Demo of LavaVu Jupyter Notebook integration</figcaption>
