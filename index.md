@@ -20,7 +20,7 @@ A few bits and pieces that are viewable online or have associated articles/press
 - [Latrobe Valley - early 3d model work](https://bridges.monash.edu/articles/figure/Latrobe_Valley_images_from_the_Auscope_Geothermal_demonstrators/15001218)
 
 ## Publications
-I contributed, usually in a small way (eg: helping with vis tools and outputs etc), to these papers, the authors were kind enough to add me as a co-author:
+I assisted with these papers, usually by providing visualisation related contributions, the authors were kind enough to add me as a co-author:
 - [Mantle plume dynamics at the rear of a retreating slab](https://academic.oup.com/gji/article-abstract/222/2/1146/5835229)
 - [UWGeodynamics: A teaching and research tool for numerical geodynamic modelling](http://joss.theoj.org/papers/10.21105/joss.01136)
 - [Benchmark of three-dimensional numerical models of subduction against a laboratory experiment](https://www.sciencedirect.com/science/article/pii/S0031920118300360)
@@ -29,6 +29,10 @@ I contributed, usually in a small way (eg: helping with vis tools and outputs et
 - [Stereoscopic space map – semi-immersive configuration of 3D-stereoscopic tours in multi-display environments](https://research.monash.edu/en/publications/stereoscopic-space-map-semi-immersive-configuration-of-3d-stereos)
 - [An interactive three dimensional approach to anatomical description—the jaw musculature of the Australian laughing kookaburra (_Dacelo novaeguineae_)](https://peerj.com/articles/355/)
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
+
+<video width="400" height="300" controls>
+  <source src="https://owen.kaluza.id.au/videos/previs-volume-final.mp4" type="video/mp4">
+</video>
 
 ## Posters and Talks
 Presentations where I was the/a primary contributor:
@@ -50,7 +54,7 @@ Presentations where I was the/a primary contributor:
 - [ShareVol](http://github.com/okaluza/sharevol)
 - [Fractured](http://github.com/okaluza/fractured)
 
-<img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="500px"/>
+<img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="400px"/>
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016) [Monash Library Article](https://www.monash.edu/news/articles/new-library-exhibition)
