@@ -2,7 +2,10 @@
 
 I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities.
 
-<iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
+<figure>
+  <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
+  <figcaption>Interactive WebGL output from LavaVu : brain connectivity network</figcaption>
+</figure>
 
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
@@ -30,9 +33,12 @@ I assisted with these papers, usually by providing visualisation related contrib
 - [An interactive three dimensional approach to anatomical description—the jaw musculature of the Australian laughing kookaburra (_Dacelo novaeguineae_)](https://peerj.com/articles/355/)
 - [The multi-modal Australian ScienceS Imaging and Visualization Environment (MASSIVE) high performance computing infrastructure: applications in neuroscience and neuroinformatics research](https://www.ncbi.nlm.nih.gov/pubmed/24734019)
 
-<video width="400" height="300" controls>
-  <source src="https://owen.kaluza.id.au/videos/previs-volume-final.mp4" type="video/mp4">
-</video>
+<figure>
+  <video width="440" height="320" controls>
+    <source src="https://owen.kaluza.id.au/videos/previs-volume-final.mp4" type="video/mp4">
+  </video>
+  <figcaption>Demo of LavaVu Jupyter Notebook integration</figcaption>
+</figure>
 
 ## Posters and Talks
 Presentations where I was the/a primary contributor:
@@ -54,7 +60,11 @@ Presentations where I was the/a primary contributor:
 - [ShareVol](http://github.com/okaluza/sharevol)
 - [Fractured](http://github.com/okaluza/fractured)
 
-<img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="400px"/>
+<figure>
+  <img src="http://owen.kaluza.id.au/2016/images/Corymbia.jpeg" width="300px"/>
+  <figcaption>"Corymbia" A fractal generated work from "Rise, Set, Ebb, Flow, Breathe, Grow"</figcaption>
+</figure>
+
 
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016) [Monash Library Article](https://www.monash.edu/news/articles/new-library-exhibition)
