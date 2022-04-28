@@ -1,12 +1,12 @@
 # About Me
 
-I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities, including the arts (fine and humanities).
+I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities.
 
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
 - [Mars Oceans Visualisation](https://bridges.monash.edu/articles/media/Mars_Oceans_Visualisation/12792575) playing around with open data, GLSL shader flooding the Martian planet surface with topography created from public domain data obtained from the USGS Astrogeology Science Center.
 - [Cyclone Debbie wind tracers over Great Barrier Reef, data from eReefs](https://bridges.monash.edu/articles/media/Cyclone_Debbie_wind_tracers_over_Great_Barrier_Reef_data_from_eReefs/12725381) open data read from NCI thredds catalogue.
-- Created this [brain connectivity 3d model](https://lavavu.github.io/webview.html?brain.gldb&background=white) to assist with Dr. Nicholas Mangan's ["Termite Economies"](https://www.monash.edu/mada/research/termite-economies)
+- Created this [brain connectivity 3d model](https://lavavu.github.io/webview.html?brain.gldb&background=white) to assist with Dr. Nicholas Mangan's ["Termite Economies"](https://www.monash.edu/mada/research/termite-economies) <iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
 - [Virtual reality and drones could unlock secrets about the mysterious Plain of Jars in Laos](http://www.abc.net.au/news/2016-10-18/vr-and-drones-could-unlock-secrets-about-the-plain-of-jars-laos/7938520)
 - [LAWLESS – The Real Bushrangers](https://genepoolproductions.com/lawless-project) - Worked on vis for 2 episodes, Photo: filming visualisation in the CAVE2 [here](https://images.squarespace-cdn.com/content/v1/5bcff59ca09a7e44dee61ca1/1542687206271-OH6Z41Q3BP14B4JTOZNC/36_Lawless_Kelly_Cave_05_edit.jpg?format=2500w)
 - [LavaVu WebGL demo page](https://lavavu.github.io/)
@@ -16,8 +16,6 @@ A few bits and pieces that are viewable online or have associated articles/press
 - [The original kookaburra WebGL model](http://cave2.github.io/websurfer/?model=examples/quayle_kookaburra)
 - Geothermal modelling, created 3d visualisations [Multi Basin](https://figshare.com/articles/poster/Underworld_and_multi_basin_heat_flow/763080) 3D PDF of  [Latrobe](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Latrobe_Valley_Victoria_Australia/12900026), [Cooper](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Cooper_Basin_South_Australia_Queensland_Australia/12900932), [Gunnedah](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Gunnedah_New_South_Wales_Australia/12900032)
 - [Latrobe Valley - early 3d model work](https://bridges.monash.edu/articles/figure/Latrobe_Valley_images_from_the_Auscope_Geothermal_demonstrators/15001218)
-
-<iframe src="https://lavavu.github.io/webview.html?brain.gldb&amp;background=white" style="width: 300px; height: 200px; border: 0px;"></iframe>
 
 ## Publications
 I contributed, usually in a small way (eg: helping with vis tools and outputs etc), to these papers, the authors were kind enough to add me as a co-author:
