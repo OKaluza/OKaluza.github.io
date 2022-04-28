@@ -1,3 +1,7 @@
+# About Me
+
+I am a research software engineer specialising in graphics programming, GPU and HPC programming, python and jupyter notebooks. I have particular interest in the applications of 3D Graphics and literate programming to scientific and data visualisation and building customisable research environments and pipelines based on the jupyter/python ecosystem, also the application of these technologies for wider research and creative communities, including the arts (fine and humanities).
+
 ## Visualisation
 A few bits and pieces that are viewable online or have associated articles/press/publications:
 - [Mars Oceans Visualisation](https://bridges.monash.edu/articles/media/Mars_Oceans_Visualisation/12792575) playing around with open data, GLSL shader flooding the Martian planet surface with topography created from public domain data obtained from the USGS Astrogeology Science Center.
@@ -49,7 +53,7 @@ Presentations where I was the/a primary contributor:
 ## Art
 - [2016 Digital Exhibition](http://owen.kaluza.id.au/2016) [Monash Library Article](https://www.monash.edu/news/articles/new-library-exhibition)
 - [Old work on Redbubble from 2007](http://redbubble.com/people/owenk) 
-- Fractured http://fract.ured.me
+- [Fractured - A Fractal Art Studio](http://fract.ured.me)
 
 ---
 
