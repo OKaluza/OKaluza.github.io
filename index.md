@@ -55,6 +55,9 @@ Presentations where I was the/a primary contributor:
 - ISMRM 2013 Poster [Fast Diffusion-Guided QSM Using Graphical Processing Units ![](https://www.ismrm.org/13/pdficon2.gif)](http://archive.ismrm.org/2013/2667.html) [poster_pdf](#pdf_todo)
 - OzViz 2012, Accelerated Computing Workshop “Accelerating Diffusion-guided Quantitative Susceptibility Mapping with OpenCL”
 - OzViz 2009 “Exploring the Underworld with gLucifer
+https://camo.githubusercontent.com/6c64130ce4a5f3ad5ef5a12e8504ddcd26b93746ef4acb0519f0f0847c2200c5/687474703a2f2f6f77656e2e6b616c757a612e69642e61752f536c696465732f323031372d30382d31352f4c61766156752e706e67
+
+![# logo](http://owen.kaluza.id.au/Slides/2017-08-15/LavaVu.png)
 
 ## Software
 - [LavaVu](http://github.com/lavavu/lavavu)
