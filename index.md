@@ -23,6 +23,12 @@ A few bits and pieces that are viewable online or have associated articles/press
 - Geothermal modelling, created 3d visualisations [Multi Basin](https://figshare.com/articles/poster/Underworld_and_multi_basin_heat_flow/763080) 3D PDF of  [Latrobe](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Latrobe_Valley_Victoria_Australia/12900026), [Cooper](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Cooper_Basin_South_Australia_Queensland_Australia/12900932), [Gunnedah](https://bridges.monash.edu/articles/report/AuScope_Geothermal_Demonstrators_-_Gunnedah_New_South_Wales_Australia/12900032)
 - [Latrobe Valley - early 3d model work](https://bridges.monash.edu/articles/figure/Latrobe_Valley_images_from_the_Auscope_Geothermal_demonstrators/15001218)
 
+<figure>
+  <img src="http://owen.kaluza.id.au/IMG_20181015_165414.jpg" width="100%"/>
+  <figcaption>Volume Rendering with LavaVR in the Monash CAVE2</figcaption>
+</figure>
+<br>
+
 ## Publications
 I assisted with these papers, usually by providing visualisation related contributions, the authors were kind enough to add me as a co-author:
 - [Mantle plume dynamics at the rear of a retreating slab](https://academic.oup.com/gji/article-abstract/222/2/1146/5835229)
@@ -57,7 +63,11 @@ Presentations where I was the/a primary contributor:
 - OzViz 2009 “Exploring the Underworld with gLucifer
 https://camo.githubusercontent.com/6c64130ce4a5f3ad5ef5a12e8504ddcd26b93746ef4acb0519f0f0847c2200c5/687474703a2f2f6f77656e2e6b616c757a612e69642e61752f536c696465732f323031372d30382d31352f4c61766156752e706e67
 
-![# logo](http://owen.kaluza.id.au/Slides/2017-08-15/LavaVu.png)
+<figure>
+  <img src="http://owen.kaluza.id.au/segmentation.png" width="100%"/>
+  <figcaption>Vessel Segmentation from noisy CT data</figcaption>
+</figure>
+<br>
 
 ## Software
 - [LavaVu](http://github.com/lavavu/lavavu)
