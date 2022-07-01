@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/owkal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaluza.id.au
+  * I am owkal (https://keybase.io/owkal) on keybase.
+  * I have a public key ASCd8WiCbAdSJsrySBgf3RP4B55-OlC4yZCHGy0ZEAmpNgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016677fb6bdca9c62ae5aecdd1e4702141e292e0b9fbd9d74b0d0065526fcba4ff0a",
+      "host": "keybase.io",
+      "kid": "01209df168826c075226caf248181fdd13f8079e7e3a50b8c990871b2d191009a9360a",
+      "uid": "1b41ca22d876a3a54c7e0f0c1d4a9b19",
+      "username": "owkal"
+    },
+    "merkle_root": {
+      "ctime": 1656653555,
+      "hash": "ffaf27cf662988249e692c07160e8736194ebd7a8fe78874257dbd3f3fa7d6b67f585b5137fa041c8f82280b74311dd39e1050736a6358940281ea3c3a0d7e67",
+      "hash_meta": "342b0858443b58a44b3d2fe18044f35db6d4871378c894f950c7e6da5c8a40bf",
+      "seqno": 22771840
+    },
+    "service": {
+      "entropy": "DkWjCuEat/1v21cSd6qBZW99",
+      "hostname": "kaluza.id.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1656653602,
+  "expire_in": 504576000,
+  "prev": "6c1e5ccd598e0cf283b38c92827f7dd529bbb447c3dc35967cc78aaa33747e06",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnfFogmwHUibK8kgYH90T+AeefjpQuMmQhxstGRAJqTYKp3BheWxvYWTESpcCBsQgbB5czVmODPKDs4ySgn991Sm7tEfD3DWWfMeKqjN0fgbEICeZrO87ZZkAoKkoNpblyI7vjsJ/HhFLq/kJj+ykzd09AgHCo3NpZ8RAD4dgPcnJudRCWaoM5OC4HpBoAe/FWHSxj8adHxmh5LN98+6IQqb39m/48R/SAumYmxJFqsNfHamubIvKlLy7A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGo4Yw+bwJijP7qQ56gxyweGLB8F+RXpRlRrxYnIUbkko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/owkal
+
+==================================================================
